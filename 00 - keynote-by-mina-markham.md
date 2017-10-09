@@ -1,5 +1,5 @@
 # Opening Keynote
-*By Mina Markham (@minamarkham) from Slack on October 9th, 2017 @ 9:00AM*
+*By Mina Markham ([@minamarkham](https://twitter.com/minamarkham)) from Slack on October 9th, 2017 @ 9:00AM*
 
 ## Talk - "Saving the World with CSS"
 
