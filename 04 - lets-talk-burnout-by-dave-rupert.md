@@ -46,7 +46,3 @@ The tech industry regards burnout like a weird badge of honor. Dave Ruperts hold
 - Clever parody of NPR: This is a Developer's Life
 - The story-telling method is refreshing
 - Has a slide with [Insert Ideas Here] and starts a dialogue with the audience
-
-## Resources
-
-- [Title](URL)
