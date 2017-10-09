@@ -1,2 +1,4 @@
-# cssdevconf2017
-Notes and any other randomness from CSS Dev Conf 2017
+# [CSSDevConf 2017](http://2017.cssdevconf.com/)
+
+**Date:** October 9th - 11th
+**Location:** New Orleans, Louisiana
