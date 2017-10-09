@@ -11,12 +11,12 @@ ELEVATOR_PITCH
 
 ## Memorable Quotes
 
-- "Quote" - Origin
+> "Quote" - Origin
 
 ## Cool Presentation Techniques
 
-> ...
+- ...
 
 ## Resources
 
-- [Title](URL)
+- [TITLE](URL)
