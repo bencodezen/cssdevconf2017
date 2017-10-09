@@ -23,9 +23,11 @@
 
 ## Memorable Quotes
 
-- "Done is better than perfect" - Mina Markham
-- "If we don't ship on time, the ship will have sailed." - Stephanie Hannon, CTO
-- "If you don't have technical debt, you're not moving fast enough." - Mina Markham
+> "Done is better than perfect" - Mina Markham
+
+> "If we don't ship on time, the ship will have sailed." - Stephanie Hannon, CTO
+
+> "If you don't have technical debt, you're not moving fast enough." - Mina Markham
 
 ## Cool Presentation Techniques
 

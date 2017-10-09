@@ -15,7 +15,7 @@ ELEVATOR_PITCH
 
 ## Cool Presentation Techniques
 
-- ...
+> ...
 
 ## Resources
 

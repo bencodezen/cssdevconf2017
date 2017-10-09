@@ -65,11 +65,15 @@ Typically, "responsive" development is bound to viewport characteristics. Wouldn
 
 ## Memorable Quotes
 
-- "CSS makes bad things easy." - Michael Rog
-- "Element-first means no styling through structure or complicated ancestry" - Michael Rog
-- "The more shallow we keep the cascade, the more pleasant our lives will be." - Michael Rog
-- "What we really want is for the component to be responsive to the amount of space available." - Micahel Rog
-- "The thing to note is that it is a paradigm shift in how we think of styling because it responds to an event instead of viewports. Kind of like async CSS." - Michael Rog
+> "CSS makes bad things easy." - Michael Rog
+
+> "Element-first means no styling through structure or complicated ancestry" - Michael Rog
+
+> "The more shallow we keep the cascade, the more pleasant our lives will be." - Michael Rog
+
+> "What we really want is for the component to be responsive to the amount of space available." - Micahel Rog
+
+> "The thing to note is that it is a paradigm shift in how we think of styling because it responds to an event instead of viewports. Kind of like async CSS." - Michael Rog
 
 ## Cool Presentation Techniques
 

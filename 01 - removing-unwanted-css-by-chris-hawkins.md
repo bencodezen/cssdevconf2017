@@ -34,7 +34,7 @@ PostCSS and ByebyeCSS to list selectors we want to be removed
 
 ## Memorable Quotes
 
-- "21% of the top 1 million websites use Bootstrap" - builtwith.com
+> "21% of the top 1 million websites use Bootstrap" - builtwith.com
 
 ## Cool Presentation Techniques
 

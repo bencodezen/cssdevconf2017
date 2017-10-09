@@ -57,9 +57,11 @@ Tools, libraries & resources
 
 ## Memorable Quotes
 
-- "It's a great thing the Microsoft is handing out bottle openers becaues When I work on IE, I drink." - David Khoursid
-- "If you have to write a long tutorial about how to use your app, you're doing it wrong." - David Khoursid
-- "Animation brings user interfaces to life." - Nick Babich
+> "It's a great thing the Microsoft is handing out bottle openers becaues When I work on IE, I drink." - David Khoursid
+
+> "If you have to write a long tutorial about how to use your app, you're doing it wrong." - David Khoursid
+
+> "Animation brings user interfaces to life." - Nick Babich
 
 ## Cool Presentation Techniques
 
