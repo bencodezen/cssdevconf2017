@@ -1,6 +1,17 @@
 # Removing Unwanted CSS (#unwantedCSS)
 *By Chris Hawkins ([@chriswhawkins](https://twitter.com/chriswhawkins)) from BASE TWO on October 9th, 2017 @ 10:00AM*
 
+## Description
+
+The future of web development and build tools like webpack promise new and exciting ways to manage our CSS and only deliver exactly the necessary styles for the components on the screen. But right now today, we're still working on lots of projects using build tools like gulp and frameworks like bootstrap that come with a lot of styles we might not use but end up serving to every page.
+
+After this session, you'll have some great ideas and familiarity with tools to help you trim down your unwanted CSS. Tools include: 
+
+- Gulp + Sass and the usual suspects 
+- UnCSS to check views against Sass/CSS 
+PostCSS and ByebyeCSS to list selectors we want to be removed 
+- Some browser and command line tools and tips to measure and test CSS performance
+
 ## Talk
 
 - Shows case study of how the initial site used its SCSS file as the `global.scss` for the other sites

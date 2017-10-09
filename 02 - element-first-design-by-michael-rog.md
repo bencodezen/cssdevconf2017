@@ -1,6 +1,10 @@
 # Element-First Design with Context-Aware CSS (#contextcss)
 *By Michael Rog ([@MichaelRog](https://twitter.com/michaelrog)) from Build For Humans on October 9th, 2017 @ 11:00AM*
 
+## Description
+
+Typically, "responsive" development is bound to viewport characteristics. Wouldn't it be great if we could style elements to "do the right thing" based on their own width or height, without having to care about the width or height of the browser?
+
 ## Talk
 
 - There are three hard problems in computer-science
