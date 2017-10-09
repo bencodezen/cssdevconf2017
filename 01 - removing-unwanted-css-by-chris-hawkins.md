@@ -1,4 +1,4 @@
-# Removing Unwanted CSS
+# Removing Unwanted CSS (#unwantedCSS)
 *By Chris Hawkins ([@chriswhawkins](https://twitter.com/chriswhawkins)) from BASE TWO on October 9th, 2017 @ 10:00AM*
 
 ## Talk
