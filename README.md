@@ -4,6 +4,13 @@
 
 **Location:** New Orleans, Louisiana
 
+**How To Rate Talks:**
+- **Number to Text:** (504) 229-6828 
+- **Text Format:** HASHTAG RATING COMMENT
+    - HASHTAG - String - Example: #talkTag
+    - RATING - Number - 5 (Best) to 1 (Worst)
+    - COMMENT - String - Example: Amazing talk!
+
 ## Day 1
 
 **Opening Keynote** By Mina Markham
