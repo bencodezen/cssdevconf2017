@@ -29,4 +29,16 @@
 
 ## Day 2
 
-...
+**Keynote Address** By Harry Roberts
+
+**What's New in JavaScript** By Wes Bos
+
+**Flipping Tables: Displaying Data on Small Screens** By Stephanie Hobson
+
+**Wrap-Up Panel: Speakers Q&A** By All Speakers
+
+**Best of: Introducing a Design System to a Legacy Product** By Paul Grant
+
+**Best of: Variable Fonts and the Future of Web Design** By Jason Pamental
+
+**Closing Keynote Q&A** By Dave Rupert
