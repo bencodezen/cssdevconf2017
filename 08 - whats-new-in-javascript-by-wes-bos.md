@@ -83,7 +83,7 @@ As we start to get comfortable with new ES6 features of JavaScript, both the lan
 
 > "I see }); as winky frowny neck beard emojis" - Wes Bos
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Love the custom font which gives the overall presentation a personal style / flair 
 - Great analogy of making breakfast to async to make it easier to understand because it's so relatable

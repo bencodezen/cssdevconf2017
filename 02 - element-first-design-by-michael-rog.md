@@ -75,7 +75,7 @@ Typically, "responsive" development is bound to viewport characteristics. Wouldn
 
 > "The thing to note is that it is a paradigm shift in how we think of styling because it responds to an event instead of viewports. Kind of like async CSS." - Michael Rog
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Good use of "sample code" integrated with humor
 - Appreciate the use of history prior to techniques to provide context and appreciation for what the talk is primarily centered on

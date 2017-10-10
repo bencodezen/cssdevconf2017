@@ -29,7 +29,7 @@
 
 > "If you don't have technical debt, you're not moving fast enough." - Mina Markham
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Listed accomplishments led by fun emojis
 - Highlighted what she will focus on

@@ -13,7 +13,7 @@ ELEVATOR_PITCH
 
 > "Quote" - Origin
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - ...
 

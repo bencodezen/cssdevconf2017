@@ -104,7 +104,7 @@
 
 > "Imagine having to work a whole month just to afford your yearly data plan." - Harry Roberts
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Did a great job building up just enough statistics to drive home his point
 - Fantastic use of scrolling through a network request report to show 

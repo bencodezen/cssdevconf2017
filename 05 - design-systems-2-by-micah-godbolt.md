@@ -50,7 +50,7 @@ In this talk, I will discuss how moving interactivity into the Design System is 
 
 > "We need to find the ways that JavaScript that power the things we love." - Micah Godbolt
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Something about a slide with a single tweet gives it a lot of prominence and authority
 

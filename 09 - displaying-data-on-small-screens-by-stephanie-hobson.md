@@ -66,7 +66,7 @@
 
 > "Simplicity is about subtracting the obvious an adding the meaningful." - John Maeda
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Great use of an animated emoji in relation to the topic (i.e., flipping tables which is punny)
 - Very animated with her talk as far as communicating emotions

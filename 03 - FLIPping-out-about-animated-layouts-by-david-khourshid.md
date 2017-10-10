@@ -63,7 +63,7 @@ Tools, libraries & resources
 
 > "Animation brings user interfaces to life." - Nick Babich
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Really clean slides that make it easy to compare his points
 - Great use of typography for text

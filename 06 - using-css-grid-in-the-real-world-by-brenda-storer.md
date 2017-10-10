@@ -52,7 +52,7 @@ Layouts achieved with a few lines of code that previously required messy hacks o
 
 > "It's okay that when I look back at my old code I sometimes say, 'What was I thinking?' That means I'm still learning and growing." - Brenda Storer
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Great use of a faux graph: "Emotional Reaction to new CSS Specs"
 - Nice use of abstract shapes to represent mental models of how grid works

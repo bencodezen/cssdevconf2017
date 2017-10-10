@@ -41,7 +41,7 @@ The tech industry regards burnout like a weird badge of honor. Dave Ruperts hold
 
 > "Your inbox is like a to-do list that someone else can use to give you things to do." - Dave Rupert's co-worker
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Clever parody of NPR: This is a Developer's Life
 - The story-telling method is refreshing

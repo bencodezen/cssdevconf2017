@@ -36,7 +36,7 @@ PostCSS and ByebyeCSS to list selectors we want to be removed
 
 > "21% of the top 1 million websites use Bootstrap" - builtwith.com
 
-## Cool Presentation Techniques
+## Presentation Notes
 
 - Clever parody of Angel song pet commercial with CSS facts
 - Good use of screen capture GIFs to illustrate some points
