@@ -5,6 +5,12 @@
 
 An annual tradition — all CSS Dev Conf speakers together on stage for an hour to answer your last minute questions! 
 
+## Disclaimer
+
+*The following is my interpretation and paraphrasing of the speakers below. It was not transcribed verbatim and should not be taken as such.*
+
+*Also, if I got any of the answers wrong or incorrectly paraphrased it. Please let me know or submit a PR!*
+
 ## Discussion
 
 ### Slow internet connections on the rest of the world was very insightful. With more developers coming up with client-side apps, what is your word of wisdom with JS frameworks?
