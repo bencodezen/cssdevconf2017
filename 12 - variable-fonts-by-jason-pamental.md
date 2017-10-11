@@ -58,7 +58,7 @@ Typography is the most important aspect of great design and UX, but can’t come
         - Uses the example of Jen Simmons trying to bring design back into web with CSS Grid
     - A more modern redux of how print happens...
         - Author >> Editor >> Designer
-    - What we've done on the web however, we flip it
+    - On the web however, this has been flipped
         - Designer >> Author >> Editor
     - Jason Santa Maria self directed blog posts which resulted in beautiful blog posts, but ultimately ended up being unsustainable.
 - How might we do better?
@@ -71,7 +71,7 @@ Typography is the most important aspect of great design and UX, but can’t come
 - **Allowing the typography to react to context and user needs with web typograph is a HUGE deal.**
 - This is why he calls himself a "web typographer" and not just a "typographer" because the the problems are that different and the impact is greater than any other medium prior
 - Status Check: Support
-    - Beginning of October - iOS - Safari
+    - Beginning of October 2017 - iOS - Safari
     - Mid-October 2017 - Chrome
     - Edge & Mozilla - Q4 2017
     - Windows 10: Bahnscrift will have it built in at the OS level
@@ -101,9 +101,9 @@ Typography is the most important aspect of great design and UX, but can’t come
 ## Presentation Notes
 
 - Great use of personal things in his life (i.e., his dogs) as a way to talk about typography. This changes things up a bit and keeps it intersting
-- Nice use of an overlay with "transparent" shapes to highlight parts to highlight on an image he wants the audience to pay attention to
+- Nice use of an overlay with "transparent" shapes to highlight parts of an image he wants the audience to pay attention to
 - Phenomenal use of animation when the typography is changed
-- Great use of overlay of a character to show contrast of a letter when changing the weight of it
+- Great use of overlay of a character to show contrast of a standard letter when changing the weight of it
 
 ## Resources
 
