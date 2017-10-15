@@ -15,7 +15,7 @@
 
 ## Day 1
 
-[**Opening Keynote**](00 - keynote-by-mina-markham.md) By [Mina Markham](https://twitter.com/minamarkham)
+[**Opening Keynote**](00%20-%20-keynote-by-mina-markham.md) By [Mina Markham](https://twitter.com/minamarkham)
 
 **Removing Unwanted** By [Chris Hawkins](https://twitter.com/chriswhawkins)
 
