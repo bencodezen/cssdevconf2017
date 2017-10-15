@@ -1,7 +1,5 @@
 # [CSSDevConf 2017](http://2017.cssdevconf.com/)
 
-## About
-
 **Date:** October 9th - 11th
 
 **Location:** New Orleans, Louisiana
@@ -15,7 +13,7 @@
 
 ## Day 1
 
-[**Opening Keynote**](00%20-%20-keynote-by-mina-markham.md) By [Mina Markham](https://twitter.com/minamarkham)
+**Opening Keynote** By [Mina Markham](https://twitter.com/minamarkham)
 
 **Removing Unwanted** By [Chris Hawkins](https://twitter.com/chriswhawkins)
 
