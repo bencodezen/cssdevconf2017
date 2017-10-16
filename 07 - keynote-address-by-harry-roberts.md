@@ -113,6 +113,7 @@
 
 ## Resources
 
+- [Harry's Slides](https://speakerdeck.com/csswizardry/why-fast-matters)
 - [What Does My Site Cost?](https://whatdoesmysitecost.com/)
 - [Building for Billions](https://developers.google.com/web/billions/)
 - [Dareboost](https://www.dareboost.com/en/home)

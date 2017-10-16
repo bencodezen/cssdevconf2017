@@ -59,5 +59,6 @@ Layouts achieved with a few lines of code that previously required messy hacks o
 
 ## Resources
 
+- [Brenda's Slides](http://brendastorer.com/presentations/2017-10-CSSDevConf/assets/player/KeynoteDHTMLPlayer.html#0)
 - [CSS Layout Club Meetup in NYC](https://www.meetup.com/CSS-Layout-Club/)
 - [Should I try to use the IE implementation of CSS Grid Layout?](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/)

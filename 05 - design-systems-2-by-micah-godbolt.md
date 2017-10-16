@@ -56,6 +56,6 @@ In this talk, I will discuss how moving interactivity into the Design System is 
 
 ## Resources
 
-- [Slides for Talk](http://bit.ly/designsys2)
+- [Micah's Slides](http://bit.ly/designsys2)
 - [Design Tokens](https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/tokens_intro.htm)
 

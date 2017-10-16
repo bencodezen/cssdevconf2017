@@ -70,6 +70,7 @@ Tools, libraries & resources
 
 ## Resources
 
+- [David's Slides](http://slides.com/davidkhourshid/flipping#/)
 - [Functional Animation in UX Design](https://uxplanet.org/functional-animation-in-ux-design-what-makes-a-good-transition-d6e7b4344e5e)
 - [Species in Pieces](http://www.species-in-pieces.com/)
 - [Building Performant Expand & Collapse Animations by Paul Lewis & Stephen McGruer](https://developers.google.com/web/updates/2017/03/performant-expand-and-collapse)

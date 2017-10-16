@@ -107,7 +107,7 @@ Typography is the most important aspect of great design and UX, but can’t come
 
 ## Resources
 
-- [Slides](http://rwt.io/presentations/talk/variable-fonts-future-web-design)
+- [Jaons's Slides](http://rwt.io/presentations/talk/variable-fonts-future-web-design)
 - [Code Examples](http://rwt.io/vfdemos/index.html)
 - [Jason Santa Maria](http://jasonsantamaria.com/articles/)
 - [Axis-Praxis by @lorp](http://www.axis-praxis.org/)

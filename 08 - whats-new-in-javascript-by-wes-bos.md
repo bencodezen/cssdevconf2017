@@ -95,4 +95,5 @@ As we start to get comfortable with new ES6 features of JavaScript, both the lan
 
 ## Resources
 
+- [Wes' Slides](https://wesbos.github.io/future-js/#1)
 - [axios](https://github.com/axios/axios)

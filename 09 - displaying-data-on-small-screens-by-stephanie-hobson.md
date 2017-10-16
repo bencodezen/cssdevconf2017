@@ -75,5 +75,6 @@
 
 ## Resources
 
+- [Stephanie's Slides](https://www.slideshare.net/stephaniehobson/flipping-tables-displaying-data-on-small-screens-80633870)
 - [The Media Object by Nicole Sullivan](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
 - [HTML Table Basic by MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
