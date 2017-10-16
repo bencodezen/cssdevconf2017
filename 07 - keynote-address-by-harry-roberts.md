@@ -1,6 +1,10 @@
 # Keynote Address
 *By Harry Roberts ([@csswizardry](https://twitter.com/csswizardry)) on October 10th, 2017 @ 9:00AM*
 
+## Description
+
+We’re all—I hope!—well aware that performance is important; it’s great for business and it’s great for our users. But things are still not fast enough. With more and more emerging markets coming online, and more and more apps moving to the web platform, we’re reaching an intersection where connections are getting slower and websites are getting heavier. In this talk, we’ll learn just what these emerging markets mean to us, and how we can begin to move in the right direction.
+
 ## Talk - Why Fast Matters
 
 - His work has transitioned from writing large scale CSS to focusing on performance

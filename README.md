@@ -74,6 +74,8 @@ Layouts achieved with a few lines of code that previously required messy hacks o
 
 [**Keynote Address**](07%20-%20keynote-address-by-harry-roberts.md) By [Harry Roberts](https://twitter.com/csswizardry) - [Slides](https://speakerdeck.com/csswizardry/why-fast-matters)
 
+We’re all—I hope!—well aware that performance is important; it’s great for business and it’s great for our users. But things are still not fast enough. With more and more emerging markets coming online, and more and more apps moving to the web platform, we’re reaching an intersection where connections are getting slower and websites are getting heavier. In this talk, we’ll learn just what these emerging markets mean to us, and how we can begin to move in the right direction.
+
 [**What's New in JavaScript**](08%20-%20whats-new-in-javascript-by-wes-bos.md) By [Wes Bos](https://twitter.com/wesbos) - [Slides](https://wesbos.github.io/future-js/#1)
 
 As we start to get comfortable with new ES6 features of JavaScript, both the language and the web platform is charging forward with many new features. This talk will cover some of the best things that are brand new to JavaScript as well as things that we can look forward to in the coming months and years. Strap yourself in for a fast-paced talk full of hot tips as we rocket ourselves into the future of JavaScript. 
