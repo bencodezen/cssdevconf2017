@@ -1,5 +1,5 @@
 # Element-First Design with Context-Aware CSS (#contextcss)
-*By Michael Rog ([@MichaelRog](https://twitter.com/michaelrog)) from Build For Humans on October 9th, 2017 @ 11:00AM*
+*By Michael Rog ([@MichaelRog](https://twitter.com/michaelrog)) from Build For Humans on October 9th, 2017 @ 11:00AM*- [Slides](https://rog.io/go/cssdevconf2017/context-sensitive-css.pdf)
 
 ## Description
 
