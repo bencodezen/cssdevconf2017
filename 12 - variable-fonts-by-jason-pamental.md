@@ -1,5 +1,5 @@
 # Best of: Variable Fonts and the Future of Web Design (#scaletype)
-*By Jason Pamental ([@jpamental](https://twitter.com/jpamental)) from Isovera on October 10th, 2017 @ 4:00PM*
+*By Jason Pamental ([@jpamental](https://twitter.com/jpamental)) from Isovera on October 10th, 2017 @ 4:00PM* - [Slides](http://rwt.io/presentations/talk/variable-fonts-future-web-design)
 
 ## Description
 

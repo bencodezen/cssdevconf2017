@@ -1,5 +1,5 @@
 # Flipping Tables: Displaying Data on Small Screens (#flipdata)
-*By Stephanie Hobson ([@stephaniehobson](https://twitter.com/stephaniehobson)) from Mozilla on October 10th, 2017 @ 11:00AM*
+*By Stephanie Hobson ([@stephaniehobson](https://twitter.com/stephaniehobson)) from Mozilla on October 10th, 2017 @ 11:00AM* - [Slides](https://www.slideshare.net/stephaniehobson/flipping-tables-displaying-data-on-small-screens-80633870)
 
 ## Description
 

@@ -1,5 +1,5 @@
 # What's New in JavaScript (#newjs)
-*By Wes Bos ([@wesbos](https://twitter.com/wesbos)) on October 10th, 2017 @ 10:00AM* [Slides](https://wesbos.github.io/future-js/#1)
+*By Wes Bos ([@wesbos](https://twitter.com/wesbos)) on October 10th, 2017 @ 10:00AM* - [Slides](https://wesbos.github.io/future-js/#1)
 
 ## Description
 

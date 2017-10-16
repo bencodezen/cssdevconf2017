@@ -1,5 +1,5 @@
 # FLIPping Out About Animated Layouts (#flipanim)
-*By David Khourshid ([@DavidKPiano](https://twitter.com/DavidKPiano)) from Microsoft on October 9th, 2017 @ 12:00PM*
+*By David Khourshid ([@DavidKPiano](https://twitter.com/DavidKPiano)) from Microsoft on October 9th, 2017 @ 12:00PM* - [Slides](http://slides.com/davidkhourshid/flipping#/)
 
 ## Description
 

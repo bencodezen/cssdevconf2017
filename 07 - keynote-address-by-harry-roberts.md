@@ -1,5 +1,5 @@
 # Keynote Address
-*By Harry Roberts ([@csswizardry](https://twitter.com/csswizardry)) on October 10th, 2017 @ 9:00AM*
+*By Harry Roberts ([@csswizardry](https://twitter.com/csswizardry)) on October 10th, 2017 @ 9:00AM* - [Slides](https://speakerdeck.com/csswizardry/why-fast-matters)
 
 ## Description
 

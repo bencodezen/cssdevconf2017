@@ -1,5 +1,5 @@
 # Design Systems 2.0: Creating Consistent Interfaces (#designsys2)
-*By Micah Godbolt ([@micahgodbolt](https://twitter.com/micahgodbolt)) from Microsoft on October 9th, 2017 @ 4:00PM*
+*By Micah Godbolt ([@micahgodbolt](https://twitter.com/micahgodbolt)) from Microsoft on October 9th, 2017 @ 4:00PM* - [Slides](http://bit.ly/designsys2)
 
 ## Description
 

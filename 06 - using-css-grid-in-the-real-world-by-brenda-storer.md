@@ -1,5 +1,5 @@
 # Using CSS Grid in the Real World (#realgrids)
-*By Brenda Storer ([@brendamarienyc](https://twitter.com/brendamarienyc)) from Thoughtbot on October 9th, 2017 @ 5:00PM*
+*By Brenda Storer ([@brendamarienyc](https://twitter.com/brendamarienyc)) from Thoughtbot on October 9th, 2017 @ 5:00PM* - [Slides](http://brendastorer.com/presentations/2017-10-CSSDevConf/assets/player/KeynoteDHTMLPlayer.html#0)
 
 ## Description
 
