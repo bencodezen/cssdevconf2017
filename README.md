@@ -12,7 +12,9 @@ The following is a compilation of my notes that I took during the conference. Th
 
 ## Day 1 - October 9th
 
-[**Opening Keynote**](00%20-%20keynote-by-mina-markham.md) By [Mina Markham](https://twitter.com/minamarkham)
+[**Opening Keynote - Saving the World with CSS**](00%20-%20keynote-by-mina-markham.md) By [Mina Markham](https://twitter.com/minamarkham)
+
+Ever wonder whether what we do in front-end development has any real impact on the world? Well, you're in luck, Mina gave an inspirational talk on her experience working on Hilary's 2016 presidential campaign and what it was like to be in the hot seat for her site. An incredible story for the books and one I hope you'll get to hear one day!
 
 [**Removing Unwanted**](01%20-%20removing-unwanted-css-by-chris-hawkins.md) By [Chris Hawkins](https://twitter.com/chriswhawkins)
 
@@ -72,7 +74,7 @@ Layouts achieved with a few lines of code that previously required messy hacks o
 
 ## Day 2 - October 10th
 
-[**Keynote Address**](07%20-%20keynote-address-by-harry-roberts.md) By [Harry Roberts](https://twitter.com/csswizardry) - [Slides](https://speakerdeck.com/csswizardry/why-fast-matters)
+[**Keynote Address - Why Fast Matters**](07%20-%20keynote-address-by-harry-roberts.md) By [Harry Roberts](https://twitter.com/csswizardry) - [Slides](https://speakerdeck.com/csswizardry/why-fast-matters)
 
 We’re all—I hope!—well aware that performance is important; it’s great for business and it’s great for our users. But things are still not fast enough. With more and more emerging markets coming online, and more and more apps moving to the web platform, we’re reaching an intersection where connections are getting slower and websites are getting heavier. In this talk, we’ll learn just what these emerging markets mean to us, and how we can begin to move in the right direction.
 
@@ -108,3 +110,5 @@ Typography is the most important aspect of great design and UX, but can’t come
 - Where to be restrained and when to experiment: think character widths on small screens, or even responding to ambient light with stronger character weights
 
 [**Closing Keynote Q&A**](13%20-%20closing-keynote-by-dave-rupert.md) By [Dave Rupert](https://twitter.com/davatron5000)
+
+Just your simple Q&A with everyone's favorite: Dave Rupert. There were lots of discussion around the state of front-end, how he prefers his PC setup over Mac *gasp*, jokes, and as you can always expect with Dave, lots of laughter.
