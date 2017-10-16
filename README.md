@@ -90,7 +90,7 @@ Tables have gotten a bad reputation in the last few years as finicky and hard to
 
 An annual tradition — all CSS Dev Conf speakers together on stage for an hour to answer your last minute questions! 
 
-[**Best of: Introducing a Design System to a Legacy Product**](11%20-%20introducing-a-design-system-to-a-legacy-product-by-paul-grant.md) By [Paul Grant](https://twitter.com/cssinate)
+[**Best of: Introducing a Design System to a Legacy Product**](11%20-%20introducing-a-design-system-to-a-legacy-product-by-paul-grant.md) By [Paul Grant](https://twitter.com/cssinate) - [Slides](https://cssinate.com/slides/2017/cdc.pdf)
 
 Imagine a product that has been on the market for a number of years without having a designer employed. How can you, as a newly-hired front-end designer, introduce a face-lift and design system without completely interrupting an existing workflow?
 

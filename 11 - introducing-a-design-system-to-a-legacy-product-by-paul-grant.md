@@ -1,5 +1,5 @@
 # Best of: Introducing a Design System to a Legacy Product (#legacy)
-*By Paul Grant ([@cssinate](https://twitter.com/cssinate)) from Martello Technologies on October 10th, 2017 @ 3:00PM*
+*By Paul Grant ([@cssinate](https://twitter.com/cssinate)) from Martello Technologies on October 10th, 2017 @ 3:00PM* - [Slides](https://cssinate.com/slides/2017/cdc.pdf)
 
 ## Description
 
@@ -109,6 +109,7 @@ Imagine a product that has been on the market for a number of years without havi
 
 ## Resources
 
+- [Paul's Slides](https://cssinate.com/slides/2017/cdc.pdf)
 - [Refactoring CSS Without Losing Your Mind](https://vimeo.com/181328942)
 - [Lightning Design System](https://www.lightningdesignsystem.com/)
 - [Atomic Design by Brad Frost](http://bradfrost.com/blog/post/atomic-web-design/)
