@@ -1,17 +1,12 @@
 # [CSSDevConf 2017](http://2017.cssdevconf.com/)
 
+## About 
+
 **Date:** October 9th - 11th
 
 **Location:** New Orleans, Louisiana
 
-**How To Rate Talks:**
-- **Number to Text:** (504) 229-6828 
-- **Text Format:** HASHTAG RATING COMMENT
-    - HASHTAG - String - Example: #talkTag
-    - RATING - Number - 5 (Best) to 1 (Worst)
-    - COMMENT - String - Example: Amazing talk!
-
-## Day 1
+## Day 1 - October 9th
 
 0. [**Opening Keynote**](00%20-%20keynote-by-mina-markham.md) By [Mina Markham](https://twitter.com/minamarkham)
 
@@ -27,7 +22,7 @@
 
 6. [**Using CSS Grid in the Real World**](06%20-%20using-css-grid-in-the-real-world-by-brenda-storer.md) By [Brenda Storer](https://twitter.com/brendamarienyc) - [Slides](http://brendastorer.com/presentations/2017-10-CSSDevConf/assets/player/KeynoteDHTMLPlayer.html#0)
 
-## Day 2
+## Day 2 - October 10th
 
 7. [**Keynote Address**](07%20-%20keynote-address-by-harry-roberts.md) By [Harry Roberts](https://twitter.com/csswizardry) - [Slides](https://speakerdeck.com/csswizardry/why-fast-matters)
 
