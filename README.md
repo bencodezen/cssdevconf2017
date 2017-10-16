@@ -6,6 +6,10 @@
 
 **Location:** New Orleans, Louisiana
 
+## Introduction
+
+The following is a compilation of my notes that I took during the conference. There is always a possibility I misheard or misinterpreted what the speakers intended, so don't take the notes as gospel. If you think I missed something / wrote something wrong, please open an issue and I would be happy to discuss it there!
+
 ## Day 1 - October 9th
 
 [**Opening Keynote**](00%20-%20keynote-by-mina-markham.md) By [Mina Markham](https://twitter.com/minamarkham)
