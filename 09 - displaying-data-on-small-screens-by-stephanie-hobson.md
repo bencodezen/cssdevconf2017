@@ -3,7 +3,7 @@
 
 ## Description
 
-- [ ] Will update when I get this from the organizers 
+Tables have gotten a bad reputation in the last few years as finicky and hard to work with - partly because they’ve been used for the wrong thing (layout) and partly because desktop friendly wide tables don’t adapt to the narrow screens for mobile devices. But, tables are still the best way to present data for comparison and manipulation. So how can we make them as responsive as the rest of our site? This talk will cover design and code tips for making tables more readable on any screen and more adaptable to small screens.
 
 ## Talk
 

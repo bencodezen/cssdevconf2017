@@ -76,6 +76,8 @@ As we start to get comfortable with new ES6 features of JavaScript, both the lan
 
 9. [**Flipping Tables: Displaying Data on Small Screens**](09%20-%20displaying-data-on-small-screens-by-stephanie-hobson.md) By [Stephanie Hobson](https://twitter.com/stephaniehobson) - [Slides](https://www.slideshare.net/stephaniehobson/flipping-tables-displaying-data-on-small-screens-80633870)
 
+Tables have gotten a bad reputation in the last few years as finicky and hard to work with - partly because they’ve been used for the wrong thing (layout) and partly because desktop friendly wide tables don’t adapt to the narrow screens for mobile devices. But, tables are still the best way to present data for comparison and manipulation. So how can we make them as responsive as the rest of our site? This talk will cover design and code tips for making tables more readable on any screen and more adaptable to small screens.
+
 10. [**Wrap-Up Panel: Speakers Q&A**](10%20-%20wrap-up-panel-speakers-q-and-a.md) By All Speakers
 
 An annual tradition — all CSS Dev Conf speakers together on stage for an hour to answer your last minute questions! 
