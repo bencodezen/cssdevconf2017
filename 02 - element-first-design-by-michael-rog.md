@@ -1,5 +1,5 @@
 # Element-First Design with Context-Aware CSS (#contextcss)
-*By Michael Rog ([@MichaelRog](https://twitter.com/michaelrog)) from Build For Humans on October 9th, 2017 @ 11:00AM*- [Slides](https://rog.io/go/cssdevconf2017/context-sensitive-css.pdf)
+*By Michael Rog ([@MichaelRog](https://twitter.com/michaelrog)) from Build For Humans on October 9th, 2017 @ 11:00AM* - [Slides](https://rog.io/go/cssdevconf2017/context-sensitive-css.pdf)
 
 ## Description
 
@@ -83,6 +83,7 @@ Typically, "responsive" development is bound to viewport characteristics. Wouldn
 
 ## Resources
 
+- [Michael's Slides](https://rog.io/go/cssdevconf2017/context-sensitive-css.pdf)
 - [Molten Leading by Chris Coyier](https://css-tricks.com/molten-leading-css/)
 - [Flexbox + Grid CodePen](https://codepen.io/snookca/pen/LWabjj)
 - [Prollyfill for CSS CQ](https://github.com/ausi/cq-prolyfill)

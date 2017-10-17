@@ -27,7 +27,7 @@ After this session, you'll have some great ideas and familiarity with tools to h
 PostCSS and ByebyeCSS to list selectors we want to be removed 
 - Some browser and command line tools and tips to measure and test CSS performance
 
-[**Element-First Design with Context-Aware CSS**](02%20-%20element-first-design-by-michael-rog.md) By [Michael Rog](https://twitter.com/michaelrog)
+[**Element-First Design with Context-Aware CSS**](02%20-%20element-first-design-by-michael-rog.md) By [Michael Rog](https://twitter.com/michaelrog) - [Slides](https://rog.io/go/cssdevconf2017/context-sensitive-css.pdf)
 
 Typically, "responsive" development is bound to viewport characteristics. Wouldn't it be great if we could style elements to "do the right thing" based on their own width or height, without having to care about the width or height of the browser?
 
